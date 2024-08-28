@@ -11,8 +11,4 @@ This project, named "Beyond Bits" from the inter-hostel tech competition, featur
 
 
 
-#### Project Veterans
-1. Keshav Baldeva
-2. Shrut Jain
-3. Saarthi Gupta
 
